@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/CryptoBotScript)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/downloads/release/python-3100/)
 
-## Recommendation before use
+## Recommendation before use Cats&Dogs Script
 
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
 
